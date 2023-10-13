@@ -1,3 +1,3 @@
 # git-practice
 
-feature 1
+Feature One
