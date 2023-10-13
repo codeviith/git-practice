@@ -4,7 +4,7 @@
 ## Chris
 ## David
 ## Dawa
-## giorgi
+## Giorgi
 ## Harmanpreet
 ## Jenni
 ## Kevin
