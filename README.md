@@ -1,4 +1,4 @@
-# Git Practice
+# Git Practice | Pull Request Workflow
 
 ## ashley
 ## chris
