@@ -3,7 +3,7 @@
 ## ashley
 ## chris
 ## David
-## dawa
+## Dawa
 ## giorgi
 ## harmanpreet
 ## jenni
