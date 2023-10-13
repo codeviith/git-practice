@@ -1,12 +1,12 @@
-# git-practice
+# Git Practice 1 | Pull Request Workflow
 
 ## Ashley
 ## chris
-## david
+## David
 ## dawa
 ## giorgi
 ## harmanpreet
-## jenni
+## Jenni
 
 
 
