@@ -1,6 +1,6 @@
 # Git Practice 1 | Pull Request Workflow
 
-## ashley
+## Ashley
 ## chris
 ## David
 ## dawa
