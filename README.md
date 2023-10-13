@@ -1,7 +1,7 @@
 # git-practice
 
 ## ashley
-## chris
+## Chris
 ## david
 ## dawa
 ## giorgi
