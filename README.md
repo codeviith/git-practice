@@ -1,6 +1,6 @@
 # git-practice
 
-## ashley
+## Ashley
 ## chris
 ## david
 ## dawa
