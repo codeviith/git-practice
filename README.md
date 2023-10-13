@@ -1,12 +1,13 @@
-# git-practice
+# Git Practice
 
-## ashley
+## Ashley
 ## Chris
-## david
-## dawa
+## David
+## Dawa
 ## giorgi
-## harmanpreet
-## jenni
+## Harmanpreet
+## Jenni
+## Kevin
 
 
 
