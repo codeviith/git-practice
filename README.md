@@ -5,7 +5,7 @@
 ## David
 ## dawa
 ## giorgi
-## harmanpreet
+## Harmanpreet
 ## Jenni
 
 
