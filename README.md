@@ -1,8 +1,8 @@
-# Git-Practice
+# git-practice
 
 ## ashley
 ## chris
-## david
+## David
 ## dawa
 ## giorgi
 ## harmanpreet
