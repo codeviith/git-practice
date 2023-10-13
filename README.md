@@ -1,4 +1,4 @@
-# git-practice
+# Git Practice
 
 ## ashley
 ## chris
